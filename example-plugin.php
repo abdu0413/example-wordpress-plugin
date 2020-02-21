@@ -4,7 +4,7 @@ Plugin Name: Example Plugin
 Plugin URI: 
 Description: Example Plugin for youtube
 Author: MTT
-Author URI: http://youtube.com/microtechtutorials
+Author URI: 
 Version: 0.1
 
 
